@@ -1,3 +1,4 @@
 streamlit
-azure
+azure.core.credentials
+azure.ai.formrecognizer
 pandas
